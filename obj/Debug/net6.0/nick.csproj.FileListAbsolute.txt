@@ -1,0 +1,15 @@
+C:\Users\user\nick\bin\Debug\net6.0\nick.exe
+C:\Users\user\nick\bin\Debug\net6.0\nick.deps.json
+C:\Users\user\nick\bin\Debug\net6.0\nick.runtimeconfig.json
+C:\Users\user\nick\bin\Debug\net6.0\nick.dll
+C:\Users\user\nick\bin\Debug\net6.0\nick.pdb
+C:\Users\user\nick\obj\Debug\net6.0\nick.csproj.AssemblyReference.cache
+C:\Users\user\nick\obj\Debug\net6.0\nick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\nick\obj\Debug\net6.0\nick.AssemblyInfoInputs.cache
+C:\Users\user\nick\obj\Debug\net6.0\nick.AssemblyInfo.cs
+C:\Users\user\nick\obj\Debug\net6.0\nick.csproj.CoreCompileInputs.cache
+C:\Users\user\nick\obj\Debug\net6.0\nick.dll
+C:\Users\user\nick\obj\Debug\net6.0\refint\nick.dll
+C:\Users\user\nick\obj\Debug\net6.0\nick.pdb
+C:\Users\user\nick\obj\Debug\net6.0\nick.genruntimeconfig.cache
+C:\Users\user\nick\obj\Debug\net6.0\ref\nick.dll
